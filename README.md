@@ -76,13 +76,6 @@ Centralizar e organizar **gastos, receitas e investimentos** de forma simples e 
 - Modo colaborativo (ex: casal/família)
 - Planejamento financeiro (metas, orçamentos)
 
----
-
-## 🛠️ Stack Tecnológica Sugerida
-- **Frontend:** Angular 18 + Ionic (PWA/App)
-- **Backend:** Node.js + Express + PostgreSQL/MongoDB
-- **Autenticação:** Firebase Auth ou JWT
-- **Gráficos/Dashboards:** DevExtreme, Chart.js ou ApexCharts
 
 ---
 
