@@ -67,15 +67,6 @@ Centralizar e organizar **gastos, receitas e investimentos** de forma simples e 
 - O valor investido compõe o **patrimônio total**
 - Devem ser categorizados por tipo (renda fixa, variável, cripto, etc.)
 
----
-
-## 📅 Futuras Funcionalidades (Pós-MVP)
-- Integração bancária via Open Finance
-- Notificações de vencimento de contas
-- Exportação de relatórios em PDF/Excel
-- Modo colaborativo (ex: casal/família)
-- Planejamento financeiro (metas, orçamentos)
-
 
 ---
 
